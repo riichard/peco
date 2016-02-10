@@ -44,7 +44,7 @@ is printed to stdout, which allows you to pipe it to other tools
 
 ## Select Multiple Lines
 
-You can select multiple lines! 
+You can select multiple lines, use the command CTRL+space. For a full reference of all keyboard shortcuts, check the [wiki](https://github.com/peco/peco/wiki/Keyboard-Shortcuts#selection-shortcuts).
 
 ![optimized](http://peco.github.io/images/peco-demo-multiple-selection.gif)
 
